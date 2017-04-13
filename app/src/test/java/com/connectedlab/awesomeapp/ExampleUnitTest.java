@@ -15,8 +15,8 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
     }
 
-    @Test
-    public void failing_test() throws Exception {
-        fail();
-    }
+//    @Test
+//    public void failing_test() throws Exception {
+//        fail();
+//    }
 }
